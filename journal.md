@@ -1,6 +1,16 @@
 # 📓 Engineering Journal & TIL Log
 
-### 📅 2026-09-20
-* **Focus:** System Architecture, Distributed Workflows & GitHub Graph Dynamics.
-* **TIL:** GitHub Actions scheduling evaluated in UTC combined with dynamic client jitter eliminates deterministic bot fingerprints.
-* **Tag:** `#architecture` `#devops` `#cloud`
+**Last Entry:** `2026-09-21 at 12:40:15 AM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+
+### 📅 2026-09-21 (12:40:15 AM IST)
+* **Focus:** Distributed Cloud Schedulers
+* **TIL:** Decoupled cloud execution enables 24/7 reliability with zero local hardware consumption.
+* **Tags:** `#architecture #devops #cloud`
+
+### 📅 2026-09-20 (Session)
+* **Focus:** Distributed Cloud Schedulers
+* **TIL:** Decoupled cloud execution enables 24/7 reliability with zero local hardware consumption.
+* **Tags:** `#dev`
+
+---
+*Autonomous developer journal by [Pranjal Das](https://github.com/iPranjalDas).*

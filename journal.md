@@ -1,6 +1,11 @@
 # 📓 Engineering Journal & TIL Log
 
-**Last Entry:** `2026-09-21 at 12:40:15 AM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+**Last Entry:** `2026-09-21 at 11:52:43 PM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+
+### 📅 2026-09-21 (11:52:43 PM IST)
+* **Focus:** Cache Invalidation & DrvFs
+* **TIL:** POSIX 9p DrvFs translation requires disabling disk memory-mapping cache to avoid SIGBUS faults.
+* **Tags:** `#wsl2 #kernel #fs`
 
 ### 📅 2026-09-21 (12:40:15 AM IST)
 * **Focus:** Distributed Cloud Schedulers

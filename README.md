@@ -10,9 +10,9 @@
 ---
 
 ### 📝 Recent Journal Focus
-* **Latest Topic:** `Distributed Cloud Schedulers`
-* **Last Entry:** `2026-09-21 12:40:15 AM IST`
-* **Insight:** *"Decoupled cloud execution enables 24/7 reliability with zero local hardware consumption."*
+* **Latest Topic:** `Cache Invalidation & DrvFs`
+* **Last Entry:** `2026-09-21 11:52:43 PM IST`
+* **Insight:** *"POSIX 9p DrvFs translation requires disabling disk memory-mapping cache to avoid SIGBUS faults."*
 
 [➡️ View all developer journal entries in journal.md](journal.md)
 

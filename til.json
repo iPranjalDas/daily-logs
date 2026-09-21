@@ -3,6 +3,13 @@
   "entries": [
     {
       "date": "2026-09-21",
+      "time": "11:52:43 PM IST",
+      "topic": "Cache Invalidation & DrvFs",
+      "insight": "POSIX 9p DrvFs translation requires disabling disk memory-mapping cache to avoid SIGBUS faults.",
+      "tags": "#wsl2 #kernel #fs"
+    },
+    {
+      "date": "2026-09-21",
       "time": "12:40:15 AM IST",
       "topic": "Distributed Cloud Schedulers",
       "insight": "Decoupled cloud execution enables 24/7 reliability with zero local hardware consumption.",

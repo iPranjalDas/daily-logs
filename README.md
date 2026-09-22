@@ -10,9 +10,9 @@
 ---
 
 ### 📝 Recent Journal Focus
-* **Latest Topic:** `Cache Invalidation & DrvFs`
-* **Last Entry:** `2026-09-21 11:52:43 PM IST`
-* **Insight:** *"POSIX 9p DrvFs translation requires disabling disk memory-mapping cache to avoid SIGBUS faults."*
+* **Latest Topic:** `System Telemetry Histograms`
+* **Last Entry:** `2026-09-22 06:48:06 PM IST`
+* **Insight:** *"Exponential moving averages on buffer latency provide stable metrics under intermittent network load."*
 
 [➡️ View all developer journal entries in journal.md](journal.md)
 

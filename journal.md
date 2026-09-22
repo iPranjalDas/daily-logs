@@ -1,6 +1,11 @@
 # 📓 Engineering Journal & TIL Log
 
-**Last Entry:** `2026-09-21 at 11:52:43 PM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+**Last Entry:** `2026-09-22 at 06:48:06 PM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+
+### 📅 2026-09-22 (06:48:06 PM IST)
+* **Focus:** System Telemetry Histograms
+* **TIL:** Exponential moving averages on buffer latency provide stable metrics under intermittent network load.
+* **Tags:** `#telemetry #monitoring #systems`
 
 ### 📅 2026-09-21 (11:52:43 PM IST)
 * **Focus:** Cache Invalidation & DrvFs

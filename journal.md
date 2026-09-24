@@ -1,6 +1,11 @@
 # 📓 Engineering Journal & TIL Log
 
-**Last Entry:** `2026-09-23 at 07:10:32 PM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+**Last Entry:** `2026-09-24 at 09:30:55 PM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+
+### 📅 2026-09-24 (09:30:55 PM IST)
+* **Focus:** Sparse VHD dynamic hole punching
+* **TIL:** NTFS compacting triggers sparse flag assertion; fstrim with discard allows dynamic host punch-through.
+* **Tags:** `#storage #wsl #linux`
 
 ### 📅 2026-09-23 (07:10:32 PM IST)
 * **Focus:** System Telemetry Histograms

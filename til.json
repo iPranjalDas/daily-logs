@@ -2,6 +2,13 @@
   "developer": "Pranjal Das (@iPranjalDas)",
   "entries": [
     {
+      "date": "2026-09-24",
+      "time": "09:30:55 PM IST",
+      "topic": "Sparse VHD dynamic hole punching",
+      "insight": "NTFS compacting triggers sparse flag assertion; fstrim with discard allows dynamic host punch-through.",
+      "tags": "#storage #wsl #linux"
+    },
+    {
       "date": "2026-09-23",
       "time": "07:10:32 PM IST",
       "topic": "System Telemetry Histograms",

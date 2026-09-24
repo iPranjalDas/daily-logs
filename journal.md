@@ -1,6 +1,11 @@
 # 📓 Engineering Journal & TIL Log
 
-**Last Entry:** `2026-09-24 at 09:30:55 PM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+**Last Entry:** `2026-09-25 at 02:05:12 AM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+
+### 📅 2026-09-25 (02:05:12 AM IST)
+* **Focus:** Conventional Commits & Semantic Graph
+* **TIL:** Categorized commit scopes (feat, fix, perf, docs) produce clean changelogs and rich graph heatmaps.
+* **Tags:** `#git #engineering #workflow`
 
 ### 📅 2026-09-24 (09:30:55 PM IST)
 * **Focus:** Sparse VHD dynamic hole punching

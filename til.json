@@ -2,6 +2,13 @@
   "developer": "Pranjal Das (@iPranjalDas)",
   "entries": [
     {
+      "date": "2026-09-25",
+      "time": "02:05:12 AM IST",
+      "topic": "Conventional Commits & Semantic Graph",
+      "insight": "Categorized commit scopes (feat, fix, perf, docs) produce clean changelogs and rich graph heatmaps.",
+      "tags": "#git #engineering #workflow"
+    },
+    {
       "date": "2026-09-24",
       "time": "09:30:55 PM IST",
       "topic": "Sparse VHD dynamic hole punching",

@@ -10,9 +10,9 @@
 ---
 
 ### 📝 Recent Journal Focus
-* **Latest Topic:** `Sparse VHD dynamic hole punching`
-* **Last Entry:** `2026-09-24 09:30:55 PM IST`
-* **Insight:** *"NTFS compacting triggers sparse flag assertion; fstrim with discard allows dynamic host punch-through."*
+* **Latest Topic:** `Conventional Commits & Semantic Graph`
+* **Last Entry:** `2026-09-25 02:05:12 AM IST`
+* **Insight:** *"Categorized commit scopes (feat, fix, perf, docs) produce clean changelogs and rich graph heatmaps."*
 
 [➡️ View all developer journal entries in journal.md](journal.md)
 

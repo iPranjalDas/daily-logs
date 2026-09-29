@@ -10,9 +10,9 @@
 ---
 
 ### 📝 Recent Journal Focus
-* **Latest Topic:** `Conventional Commits & Semantic Graph`
-* **Last Entry:** `2026-09-25 02:05:12 AM IST`
-* **Insight:** *"Categorized commit scopes (feat, fix, perf, docs) produce clean changelogs and rich graph heatmaps."*
+* **Latest Topic:** `System Telemetry Histograms`
+* **Last Entry:** `2026-09-29 10:41:49 PM IST`
+* **Insight:** *"Exponential moving averages on buffer latency provide stable metrics under intermittent network load."*
 
 [➡️ View all developer journal entries in journal.md](journal.md)
 

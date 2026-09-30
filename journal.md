@@ -1,6 +1,11 @@
 # 📓 Engineering Journal & TIL Log
 
-**Last Entry:** `2026-09-29 at 10:41:49 PM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+**Last Entry:** `2026-09-30 at 08:34:48 PM IST` | **Author:** [Pranjal Das](https://github.com/iPranjalDas)
+
+### 📅 2026-09-30 (08:34:48 PM IST)
+* **Focus:** Distributed Cloud Schedulers
+* **TIL:** Decoupled cloud execution enables 24/7 reliability with zero local hardware consumption.
+* **Tags:** `#architecture #devops #cloud`
 
 ### 📅 2026-09-29 (10:41:49 PM IST)
 * **Focus:** System Telemetry Histograms

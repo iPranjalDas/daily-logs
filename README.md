@@ -10,9 +10,9 @@
 ---
 
 ### 📝 Recent Journal Focus
-* **Latest Topic:** `Distributed Cloud Schedulers`
-* **Last Entry:** `2026-09-30 08:34:48 PM IST`
-* **Insight:** *"Decoupled cloud execution enables 24/7 reliability with zero local hardware consumption."*
+* **Latest Topic:** `System Telemetry Histograms`
+* **Last Entry:** `2026-10-01 08:46:06 PM IST`
+* **Insight:** *"Exponential moving averages on buffer latency provide stable metrics under intermittent network load."*
 
 [➡️ View all developer journal entries in journal.md](journal.md)
 
